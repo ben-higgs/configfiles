@@ -1,0 +1,15 @@
+{
+    "pyright.enable": true,
+    "pyright.inlayHints.enable": true,
+    "pyright.inlayHints.functionReturnTypes": true,
+    "pyright.inlayHints.variableTypes": false,
+    "python.analysis.autoImportCompletions": false,
+    "python.analysis.autoSearchPaths": false,
+    "python.analysis.typeCheckingMode": "on",
+    "snippets.priority": 100,
+    "diagnostic.errorSign": "!",
+    "diagnostic.warningSign": "*",
+    "diagnostic.infoSign": ">",
+    "diagnostic.hintSign": "^",
+    "coc.preferences.extensionUpdateCheck": "weekly"
+}
